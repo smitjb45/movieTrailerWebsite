@@ -1,6 +1,7 @@
 import media
 import fresh_tomatoes
 
+# Four instances of the Movies Class are created here
 shrek = media.Movie("Shrek (2001)", 
                     "After his swamp is filled with magical creatures, Shrek agrees to" + 
                     "rescue Princess Fiona for a villainous lord in order to get his land back.", 
@@ -22,12 +23,13 @@ degrees_south = media.Movie("180 South (2010)",
                     )
                     
 star_wars = media.Movie("Star Wars (1977)", 
-                    " the Rebel Alliance, led by Princess Leia (Fisher), and its attempt to destroy" + 
+                    " The Rebel Alliance, led by Princess Leia (Fisher), and its attempt to destroy" + 
                     " the Galactic Empire's space station, the Death Star.", 
                     "http://www.followingthenerd.com/site/wp-content/uploads/Star_Wars_A_New_Hope_OGN_Cover.jpg", 
                     "https://www.youtube.com/watch?v=nywPf1p-BBY"
                     )
-                    
+
+# Created a list to put instances in and pass into the open movies function
 movies = [shrek, endless_summer, degrees_south, star_wars]
 
 fresh_tomatoes.open_movies_page(movies)
