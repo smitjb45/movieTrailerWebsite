@@ -1,7 +1,7 @@
 # Movie Trailer Website
 This project was created to complete the Udsaity project 1 for Full Stack Degree.
 
-##-This project requires pythin 2.7.9 to run
+##This project requires pythin 2.7.9 to run
 
 ### includes 4 files
 
@@ -16,3 +16,4 @@ This project was created to complete the Udsaity project 1 for Full Stack Degree
 ## Project Summery
 
 It was a fun project that displays 4 movies that I chose and will play the trailer if you click the Image UI displayed below
+![Screenshot](screenShot.png)
