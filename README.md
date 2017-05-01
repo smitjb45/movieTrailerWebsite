@@ -1,7 +1,7 @@
 # Movie Trailer Website
-This project was created to complete the Udsaity project 1 for Full Stack Degree.
+This project was created to complete the Udacity project 1 for Full Stack Degree.
 
-##This project requires pythin 2.7.9 to run
+##This project requires python 2.7.9 to run
 
 ### includes 4 files
 
