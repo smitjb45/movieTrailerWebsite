@@ -16,4 +16,4 @@ This project was created to complete the Udsaity project 1 for Full Stack Degree
 ## Project Summery
 
 It was a fun project that displays 4 movies that I chose and will play the trailer if you click the Image UI displayed below
-![Screenshot](screenShot.png)
+![screen shot](https://cloud.githubusercontent.com/assets/11069807/25569795/10ae9d10-2dd2-11e7-96bb-be1f9ce719c6.png)
